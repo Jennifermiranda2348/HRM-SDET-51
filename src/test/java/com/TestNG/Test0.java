@@ -14,6 +14,7 @@ public class Test0 extends BaseClass{
 	public void regional()
 	{
 		System.out.println("Regional regression test executed");
+		System.out.println("Done");
 	}
 
 }
